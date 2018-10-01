@@ -1,4 +1,4 @@
-# jsui
+# JSUI (JSD for UI)
 JavaScript for UI Web Transfer Protocol
 
 * Web: Web means a network of computer or Internet, web doesn't mean HTTP
